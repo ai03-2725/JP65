@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:JIS60-cache
+LIBS:JP65-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -690,4 +690,6 @@ Text GLabel 3000 6300 2    60   Input ~ 0
 COL7
 Text GLabel 3000 4800 2    60   Input ~ 0
 COL6
+Text GLabel 3000 4100 2    50   Input ~ 0
+COL14
 $EndSCHEMATC
